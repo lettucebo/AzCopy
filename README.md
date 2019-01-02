@@ -14,7 +14,7 @@ OR
 Enter to the container's termial
 
 ``` bash
-docker run -it abc12207/azcopy:10-preview sh
+docker run -it azcopy sh
 ```
 
 AzCopy v10 doc: https://docs.microsoft.com/bs-latn-ba/azure/storage/common/storage-use-azcopy-v10
