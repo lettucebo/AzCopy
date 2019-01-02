@@ -1,4 +1,4 @@
-# AzCopy on Docker
+# AzCopy (v10) on Docker
 
 ## Usage
 Just run container and attach script on the after
